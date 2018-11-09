@@ -1,4 +1,4 @@
-# twitter_sentiment_analysis
+# Twitter_Sentiment_Analysis
 Twitter sentiment analysis with multiclass logistic regression
 
 Sentiment Analysis is a branch of NLP that allows us to determine algorithmically where a statement or document is "positive" or "negative"
