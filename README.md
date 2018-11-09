@@ -35,3 +35,5 @@ If you have any questions,feel free to shoot me a email :)
 Mingkun Gao
 mingkun.gao@mail.utoronto.ca
 Toronto, Ontario
+
+Licensed under the [MIT License](LICENSE)
