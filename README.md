@@ -1,39 +1,39 @@
 # Twitter_Sentiment_Analysis
 Twitter sentiment analysis with multiclass logistic regression
 
-Sentiment Analysis is a branch of NLP that allows us to determine algorithmically where a statement or document is "positive" or "negative"
+Sentiment Analysis is a branch of NLP that allows us to determine algorithmically where a statement or document is "positive" or "negative"<br />
 This is a guide for sentiment analsysis and how to use build and test your model.
 
 In this twitter sentiment analsysis, there are 5 different sections: 
 
 1.Cleaning data
-Remove html tags, attributes, URLS, stopwords.
+Remove html tags, attributes, URLS, stopwords.<br />
 Html characters replaced with an ASCII equivalent
 
-2.Exploratory analysis
+2.Exploratory analysis<br />
 What can data tell you?
 
-3.Model preparation and implementation
-The idea of this step was to train a model using "A" data set and use it on "B" data set and check with results that given from "B"
+3.Model preparation and implementation<br />
+The idea of this step was to train a model using "A" data set and use it on "B" data set and check with results that given from "B"<br />
 Also train a multiple class logistic regression model and check its accuracy
 
-A logistic regression was used to train data from generic tweets(Trainning 70% data and testing 30% data) 
+A logistic regression was used to train data from generic tweets(Trainning 70% data and testing 30% data) <br />
 TF-IDF methods was used and explained in the notebook
 
-4.Discussion 
+4.Discussion <br />
 My thoughs from step 1 - step 4.
 
-5.Bonus section
-Compared model performance between:
+5.Bonus section<br />
+Compared model performance between:<br />
 LinearSVC, Logistic Regression, Multinomial NB and Random Forest Classifier.
 
-This code can be used on any NLP analysis. 
+This code can be used on any NLP analysis. <br />
 Hope you enjoy!
 
 If you have any questions,feel free to shoot me a email :) 
 
-Mingkun Gao
-mingkun.gao@mail.utoronto.ca
+Mingkun Gao<br />
+mingkun.gao@mail.utoronto.ca<br />
 Toronto, Ontario
 
 Licensed under the [MIT License](LICENSE)
