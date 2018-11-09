@@ -6,31 +6,31 @@ This is a guide for sentiment analsysis and how to use build and test your model
 
 In this twitter sentiment analsysis, there are 5 different sections: 
 
-#### 1.Cleaning data
+### 1.Cleaning data
 Remove html tags, attributes, URLS, stopwords.<br />
 Html characters replaced with an ASCII equivalent
 
-#### 2.Exploratory analysis<br />
+### 2.Exploratory analysis<br />
 What can data tell you?
 
-#### 3.Model preparation and implementation<br />
+### 3.Model preparation and implementation<br />
 The idea of this step was to train a model using "A" data set and use it on "B" data set and check with results that given from "B"<br />
 Also train a multiple class logistic regression model and check its accuracy
 
 A logistic regression was used to train data from generic tweets(Trainning 70% data and testing 30% data) <br />
 TF-IDF methods was used and explained in the notebook
 
-#### 4.Discussion <br />
+### 4.Discussion <br />
 My thoughs from step 1 - step 4.
 
-#### 5.Bonus section<br />
+### 5.Bonus section<br />
 Compared model performance between:<br />
 LinearSVC, Logistic Regression, Multinomial NB and Random Forest Classifier.
 
 This code can be used on any NLP analysis. <br />
 Hope you enjoy!
 
-#### If you have any questions,feel free to shoot me a email :) 
+### If you have any questions,feel free to shoot me a email :) 
 
 Mingkun Gao<br />
 mingkun.gao@mail.utoronto.ca<br />
