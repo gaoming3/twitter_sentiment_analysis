@@ -1,9 +1,11 @@
 # Twitter_Sentiment_Analysis
-Twitter sentiment analysis with multiclass logistic regression
+https://www.kaggle.com/crowdflower/twitter-airline-sentiment
+Analyze how travelers in February 2015 expressed their feelings on Twitter
+
+This is a sentiment analysis that predict the motion of each tweet and the negative reasons behind each tweet.
 
 Sentiment Analysis is a branch of NLP that allows us to determine algorithmically where a statement or document is "positive" or "negative"<br />
-This is a guide for sentiment analsysis and how to use build and test your model.
-
+This is a guide for sentiment analsysis includes: how to use build and test your model.
 In this twitter sentiment analsysis, there are 5 different sections: 
 
 ### 1.Cleaning data
